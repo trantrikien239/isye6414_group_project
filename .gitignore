@@ -1,0 +1,6 @@
+*.csv
+*.tsv
+.cache
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
